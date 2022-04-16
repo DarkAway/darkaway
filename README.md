@@ -3,22 +3,11 @@
 
 
 
-Olá , bem-vindo ao meu Github 👋
+não fode, quita.
 
-Atualmente estou estudando sobre Kernel Mode e Assembly x64 🙇                                    
+script kid, fundador do fivem, rico bem novinho, especialista em hacking.
 
-Programação por hobbie 🙏
-
-Apenas me interesso por JS/PHP , Assembly e Reverse Engineering 🧐
-
-Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinzeiro javascripteiro! 😡😡😡
-
-
-
+não uso mais ghub zz, tudo private ou apagado.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkAway&show_icons=true&theme=dark)](https://github.com/DarkAway/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=DarkAway&show_icons=true&theme=dark)
-
-### *Spotify Playing :headphones:*
-
-<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
